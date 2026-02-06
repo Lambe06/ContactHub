@@ -37,12 +37,8 @@ In this program you can:
 1. Add a Contact
 2. Remove a Contact
 3. Search a Contact with filters
-
-4\. Display All Contacts
-
-5\. Modify a Contact
-
-
+4. Display All Contacts
+5. Modify a Contact
 
 Maybe in a second version of the code i can add more features…
 
@@ -73,4 +69,5 @@ I hope you'll enjoy my work, bye!
 
 
 MY PROFILE: https://github.com/Lambe06
+
 
