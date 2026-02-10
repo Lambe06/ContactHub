@@ -74,7 +74,7 @@ void AddressBook::displayWithIndex() const {
     }
 
     for (int i = 0; i < contacts.size(); i++) {
-        std::cout << "[" << i << "] "; // Stampiamo l'indice tra parentesi
+        std::cout << "[" << i << "] ";
         contacts[i].display(); 
         std::cout << "-----------------" << std::endl; 
     }
@@ -220,4 +220,5 @@ void AddressBook::modifyContact(int index)
 int AddressBook::getContactsSize() const
 {
     return contacts.size();
+
 }
